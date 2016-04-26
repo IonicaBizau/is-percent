@@ -1,14 +1,18 @@
+
 # is-percent [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/is-percent.svg)](https://www.npmjs.com/package/is-percent) [![Downloads](https://img.shields.io/npm/dt/is-percent.svg)](https://www.npmjs.com/package/is-percent) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Check if a given value is in the percent format.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save is-percent
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const isPercent = require("is-percent");
@@ -29,7 +33,8 @@ console.log(isPercent("foo%"));
 // => false
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `isPercent(input)`
 Checks if a given value is in the percent format.",
@@ -40,13 +45,18 @@ Checks if a given value is in the percent format.",
 #### Return
 - **Boolean** `true`, if the given value is in the percent format, `false` otherwise.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+
+ - [`fixed-or-percent`](https://github.com/IonicaBizau/fixed-or-percent#readme)—Get the percent or fixed value.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
