@@ -1,6 +1,6 @@
 {
   "name": "is-percent",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Check if a given value is in the percent format.",
   "main": "lib/index.js",
   "directories": {
@@ -31,6 +31,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
