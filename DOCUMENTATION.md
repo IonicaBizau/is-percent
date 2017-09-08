@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Checks if a given value is in the percent format.",
 
 #### Params
+
 - **String** `input`: The input value.
 
 #### Return
