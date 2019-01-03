@@ -1,6 +1,6 @@
 {
   "name": "is-percent",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Check if a given value is in the percent format.",
   "main": "lib/index.js",
   "directories": {
